@@ -1,7 +1,5 @@
 # Time with Loved Ones App
 
-![Heart Icon](./src/assets/img/heart-img.png)
-
 A simple React application that helps you calculate and visualize the time you have left to spend with your loved ones. This project allows users to input important details like name, birthdate, frequency of visits, and hours per visit, and it provides a visual overview of the remaining time you can spend together.
 
 ## Table of Contents
